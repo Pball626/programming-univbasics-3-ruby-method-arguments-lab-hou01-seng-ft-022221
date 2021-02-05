@@ -6,6 +6,8 @@ def introduction(joey)
   puts "Hi, my name is #{joey}."
 end
 
+introduction
+
 
 
 
