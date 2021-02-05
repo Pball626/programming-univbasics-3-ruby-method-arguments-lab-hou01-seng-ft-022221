@@ -6,14 +6,6 @@ def introduction(joey)
   puts "HI, my name is #{joey}."
 end
 
-def introduction_with_language(joey,ruby)
-puts "Hi, my name is #{joey} and I am learning to program in #{ruby}."
-end
-
-def introduction_with_language_optional(joey, language = "Ruby")
-  puts "Hi, my name is #{joey} and I am learning to program in #{ruby}."
-end
-
 
 
 
